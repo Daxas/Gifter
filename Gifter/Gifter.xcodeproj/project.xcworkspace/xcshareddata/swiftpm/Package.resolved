@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UserDefaultsStore",
+        "repositoryURL": "https://github.com/omaralbeik/UserDefaultsStore",
+        "state": {
+          "branch": null,
+          "revision": "f2233cb98461157033255bc945099cb06ec7c3c7",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
